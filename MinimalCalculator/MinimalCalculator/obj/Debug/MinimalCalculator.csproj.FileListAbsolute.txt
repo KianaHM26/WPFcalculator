@@ -1,0 +1,14 @@
+C:\Users\Kiana\source\repos\MinimalCalculator\MinimalCalculator\obj\Debug\MinimalCalculator.csproj.AssemblyReference.cache
+C:\Users\Kiana\source\repos\MinimalCalculator\MinimalCalculator\obj\Debug\App.g.cs
+C:\Users\Kiana\source\repos\MinimalCalculator\MinimalCalculator\obj\Debug\MinimalCalculator_MarkupCompile.cache
+C:\Users\Kiana\source\repos\MinimalCalculator\MinimalCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Kiana\source\repos\MinimalCalculator\MinimalCalculator\bin\Debug\MinimalCalculator.exe.config
+C:\Users\Kiana\source\repos\MinimalCalculator\MinimalCalculator\bin\Debug\MinimalCalculator.exe
+C:\Users\Kiana\source\repos\MinimalCalculator\MinimalCalculator\bin\Debug\MinimalCalculator.pdb
+C:\Users\Kiana\source\repos\MinimalCalculator\MinimalCalculator\obj\Debug\MainWindow.baml
+C:\Users\Kiana\source\repos\MinimalCalculator\MinimalCalculator\obj\Debug\MinimalCalculator.g.resources
+C:\Users\Kiana\source\repos\MinimalCalculator\MinimalCalculator\obj\Debug\MinimalCalculator.Properties.Resources.resources
+C:\Users\Kiana\source\repos\MinimalCalculator\MinimalCalculator\obj\Debug\MinimalCalculator.csproj.GenerateResource.cache
+C:\Users\Kiana\source\repos\MinimalCalculator\MinimalCalculator\obj\Debug\MinimalCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Kiana\source\repos\MinimalCalculator\MinimalCalculator\obj\Debug\MinimalCalculator.exe
+C:\Users\Kiana\source\repos\MinimalCalculator\MinimalCalculator\obj\Debug\MinimalCalculator.pdb
